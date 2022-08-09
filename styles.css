@@ -1,0 +1,55 @@
+body {
+    font-family: monospace;
+    background-color: #e6e8e6;
+}
+.yhep {
+    background-color: #000000;
+    height: 120px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+.wow {text-align: center;
+    padding-top: 5px;
+    font-family: monospace;
+    color: #ffea00;
+    font-size: 15px
+}
+.okay {
+    display: inline-block;
+    margin-bottom: 20px;
+
+}
+.eyah {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    font-style: italic;    
+    font-weight: 500;
+    line-height: 25px;
+}
+.lol {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 10px;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 30px;
+    font-weight: 500;
+}
+.dope {
+    display: inline-block;
+    padding-left: 15px; 
+    border: none;
+}
+.buju {
+    text-align: center;
+    margin-top: 30PX;
+    font-size: medium;
+}
+.puke {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
